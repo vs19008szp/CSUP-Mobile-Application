@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1086122585927",
+    "firebase_url": "https://aplikacijaautobusi.firebaseio.com",
+    "project_id": "aplikacijaautobusi",
+    "storage_bucket": "aplikacijaautobusi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086122585927:android:f76a527620bfd036eb6662",
+        "android_client_info": {
+          "package_name": "com.example.aplikacijaautobusi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086122585927-2qvrgd74vksmm8v3pr4sma5fqff3unp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_p5-3j4Sxqa8EZZH-AifLtRqUGnsI4eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086122585927-2qvrgd74vksmm8v3pr4sma5fqff3unp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086122585927:android:eb989dd82a04eb7feb6662",
+        "android_client_info": {
+          "package_name": "com.example.casestudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086122585927-2qvrgd74vksmm8v3pr4sma5fqff3unp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_p5-3j4Sxqa8EZZH-AifLtRqUGnsI4eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086122585927-2qvrgd74vksmm8v3pr4sma5fqff3unp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086122585927:android:b8325911760f922beb6662",
+        "android_client_info": {
+          "package_name": "com.example.vozacautobusa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086122585927-2qvrgd74vksmm8v3pr4sma5fqff3unp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_p5-3j4Sxqa8EZZH-AifLtRqUGnsI4eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086122585927-2qvrgd74vksmm8v3pr4sma5fqff3unp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

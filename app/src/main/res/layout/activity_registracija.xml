@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="800dp"
+    android:layout_width="500dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/pozadina1"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:paddingTop="80dp"
+        android:paddingRight="50dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Registracija"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:textColor="@color/btnColor"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+        <EditText
+            android:id="@+id/regUser"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:textSize="20sp"
+            android:hint="@string/ime"
+            android:textAlignment="center" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+
+        <EditText
+            android:id="@+id/regMail"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:textSize="20sp"
+            android:hint="@string/email"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+
+        <EditText
+            android:id="@+id/regPass"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:textSize="20sp"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:layout_marginRight="20dp"
+        android:paddingTop="15dp">
+
+        <Button
+            android:id="@+id/btReg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text=" Registracija "
+            android:textColor="#fff8dc"
+            android:background="@color/btnColor"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:layout_marginLeft="10dp"
+        android:paddingTop="15dp">
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prethodna stranica"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
