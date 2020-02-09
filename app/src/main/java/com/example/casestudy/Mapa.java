@@ -55,7 +55,7 @@ public class Mapa extends AppCompatActivity implements OnMapReadyCallback {
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
 
-        reff = FirebaseDatabase.getInstance().getReference().child("Psi");
+        reff = FirebaseDatabase.getInstance().getReference().child("Dostava");
         autentikacijaa = FirebaseAuth.getInstance();
 
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
